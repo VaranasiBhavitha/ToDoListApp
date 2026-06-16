@@ -1,4 +1,4 @@
-public class Task {
+public class Task{
     String title;
     boolean completed;
 

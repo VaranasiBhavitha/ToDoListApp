@@ -16,4 +16,4 @@
 2. Run: java Main
 
 ## Today's Update
-- Improved project documentation.
+- Improved projectt documentation.
